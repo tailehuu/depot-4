@@ -17,3 +17,5 @@
 
 # Ignore all RubyMine
 .idea/*
+**/.idea/workspace.xml
+**/.idea/tasks.xml
